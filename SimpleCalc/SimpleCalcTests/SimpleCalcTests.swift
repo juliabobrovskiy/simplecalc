@@ -2,7 +2,7 @@
 //  SimpleCalcTests.swift
 //  SimpleCalcTests
 //
-//  Created by Ted Neward on 10/3/17.
+//  Created by Ted Neward onlol 10/3/17.
 //  Copyright © 2017 Neward & Associates. All rights reserved.
 //
 
